@@ -1,0 +1,18 @@
+---
+title: "HelloWorld"
+author: "Yigit"
+date: "2/8/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```
+## This is a markdown file
+```
